@@ -45,7 +45,7 @@
 					echo ', ';
 				}
 			}
-			echo "];";	//------------------------------fin du tableau JS
+			echo "];";	//-------------------------------fin du tableau JS
 		?>
 	</script>
 </head>
